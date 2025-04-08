@@ -1,0 +1,32 @@
+# Basic Information
+
+## Contact Details
+Name: Abdullah Khan
+Email: contact@abdullahkhan.com
+Location: New York, NY
+
+## Education
+- Bachelor of Science in Computer Science
+- Master of Science in Software Engineering
+
+## Professional Experience
+- Senior Software Developer at Tech Solutions Inc. (2022-Present)
+- Software Engineer at Digital Innovations Co. (2019-2022)
+- Junior Developer at StartUp Tech (2017-2019)
+
+## Languages
+- English (Fluent)
+- Urdu (Native)
+- Arabic (Intermediate)
+
+## Interests
+- Open Source Software Development
+- Cloud Computing
+- Artificial Intelligence
+- Hiking and Photography
+
+## Future Goals
+Looking to expand knowledge in machine learning applications and contribute to meaningful open-source projects that solve real-world problems.
+
+---
+Last Updated: April 8, 2025
